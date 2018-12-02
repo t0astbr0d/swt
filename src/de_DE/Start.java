@@ -8,6 +8,7 @@ public class Start {
 		System.out.println("Jetzt Develop");
 		System.out.println("ende");
 		System.out.println("einb weiteres ende");
+		System.out.println("Ein neuer Anfang");
 	}
 
 }
